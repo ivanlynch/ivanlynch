@@ -14,5 +14,5 @@
 </div>
 <br>
 <div align="left">
-  <a href="https://dly.to/2TeX6deQV1p"><img src="https://api.daily.dev/devcards/9d976eafcf03412ba2479bf703b1f5ba.png?r=04k" width="400" alt="ivanlynch's Dev Card"/></a>
+  <a href="https://app.daily.dev/ivanlynch"><img src="https://api.daily.dev/devcards/9d976eafcf03412ba2479bf703b1f5ba.png?r=kz2" width="400" alt="ivanlynch's Dev Card"/></a>
 </div>
