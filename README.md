@@ -16,6 +16,4 @@
 <div align="left">
   <a href="https://app.daily.dev/ivanlynch"><img src="https://api.daily.dev/devcards/v2/G8nDHTKFt9FXLQAWHIZEA.png?type=default&r=piz" width="356" alt="ivanlynch's Dev Card"/></a>
 </div>
-<div>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
